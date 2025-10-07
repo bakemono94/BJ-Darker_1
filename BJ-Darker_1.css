@@ -3579,6 +3579,7 @@ input#submit_button {
   cursor: pointer;
   border: 1px solid #27292c;
   border-radius: 8%;
+  margin-top: 10px;
 }
 
 .profileinfo {
