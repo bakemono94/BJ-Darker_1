@@ -3801,6 +3801,7 @@ input#post {
 .layout.cat_list {
   background: #282b30;
   max-width: max-content;
+  margin: 0 auto;
 }
 
 #disclaimer_container::after,
