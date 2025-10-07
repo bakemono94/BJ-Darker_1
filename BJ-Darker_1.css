@@ -1093,6 +1093,7 @@ th {
   border-top: 1px double #282b30;
   border-left: 1px solid #282b30;
   border-right: 1px solid #282b30;
+  vertical-align: middle;
 }
 
 .colhead {
