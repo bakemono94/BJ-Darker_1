@@ -781,6 +781,7 @@ div.linkbox {
   border-left: 3px solid #22252a;
   border-right: 3px solid #22252a;
   border-top: 3px solid #22252a;
+  border-bottom: 2px solid #2b2b2b;
 }
 
 #cat-selector ul li {
