@@ -309,6 +309,10 @@ a {
   text-decoration: none;
 }
 
+.group_image + .group_info {
+    margin-top: 10px;
+}
+
 #userinfo_major .brackets:after,
 #userinfo_major .brackets:before,
 .alertbar,
