@@ -3233,7 +3233,7 @@ ul.collage_images {
 
 .toLeft,
 .tab1_col3.width80 {
-  background: #2d3239;
+  /*background: #2d3239;*/
 }
 
 #menudrop a.symbol {
@@ -3302,6 +3302,7 @@ table.slice {
   font-weight: 500;
   color: seagreen;
   font-family: Roboto;
+  background-color: #1d1e21;
 }
 
 .dropzone.dz-clickable {
