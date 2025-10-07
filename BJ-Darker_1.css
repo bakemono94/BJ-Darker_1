@@ -364,12 +364,12 @@ textarea {
 }
 
 .r00 {
-  color: red;
+  color: #ad281d;
 }
 
 .r01,
 .r02 {
-  color: #ff1300;
+  color: #ad281d;
   font-weight: 500;
   font-size: 14px;
   font-family: "Roboto Condensed", sans-serif;
