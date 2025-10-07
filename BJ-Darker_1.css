@@ -1107,6 +1107,18 @@ th {
   vertical-align: middle;
 }
 
+tbody tr td[colspan="2"] {
+    height: 30px;
+}
+
+tr td {
+    height: 30px;
+}
+
+td.toLeft {
+    background-color: black;
+}
+
 .colhead {
   background: #3b3d41;
   font-weight: 700;
