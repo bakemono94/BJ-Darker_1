@@ -2031,7 +2031,7 @@ input[type="search"]::-webkit-search-results-decoration {
   border-bottom-right-radius: 17px;
   border-bottom-left-radius: 17px;
   opacity: 0.99;
-  width: 175px;
+  /*width: 175px;*/
 }
 
 #menudrop ul ul li {
