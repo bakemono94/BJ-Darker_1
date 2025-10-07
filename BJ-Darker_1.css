@@ -2039,6 +2039,10 @@ input[type="search"]::-webkit-search-results-decoration {
   width: 172px;
 }
 
+#menudrop ul li ul li ul {
+	border-top: 2px solid #55020291;
+}
+
 #menudrop ul ul a {
   line-height: 10%;
   padding: 12px 5px;
