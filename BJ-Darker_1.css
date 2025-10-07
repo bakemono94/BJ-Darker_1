@@ -1949,7 +1949,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 #menudrop {
-  display: block;
+  /*display: block;*/
   font-size: 19px;
   line-height: 23px;
   /*! font-family: "Roboto Condensed", sans-serif; */
@@ -1959,14 +1959,16 @@ input[type="search"]::-webkit-search-results-decoration {
   border-radius: 8px;
   border: 1px solid #3e4146;
   position: relative;
-  left: 33.4%;
+  left: 10%;
   align-content: center;
   float: left;
   top: -13px;
   z-index: 1;
-  background: #282b30;
+  /*background: #282b30;*/
+  background: #141518;
   white-space: nowrap;
-  width: 22vw;
+  /*width: 22vw;*/
+  width: 40vw;
   padding: 1px;
 }
 
@@ -1980,9 +1982,10 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 #menudrop ul li {
-  width: 90px;
+  width: 160px;
   display: block;
   background: 0 0;
+  padding-top: 1px;
 }
 
 #menudrop ul li.current-menu-item {
