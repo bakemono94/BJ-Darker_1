@@ -1839,7 +1839,7 @@ ol {
   font-family: "Fira Sans", sans-serif;
   font-weight: 500;
   font-style: normal;
-  background-color: #2e3135ab;
+  /*background-color: #2e3135ab;*/
 }
 
 #stats_seeding {
@@ -1875,6 +1875,7 @@ ol {
   box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
   transition: all 0.2s ease-in-out;
   white-space: nowrap;
+  text-align: center;
 }
 
 #forum_list number_column {
