@@ -1145,6 +1145,7 @@ td.label {
   font-weight: 500;
   text-align: right;
   font-family: "Fira Sans", sans-serif;
+  vertical-align: middle;
 }
 
 table.slice {
