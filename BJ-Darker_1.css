@@ -1121,6 +1121,10 @@ td.toLeft {
     background-color: black;
 }
 
+table.torrent_table.cats.no_grouping td:not([class]) {
+	text-align: center;
+}
+
 .colhead {
   background: #3b3d41;
   font-weight: 700;
