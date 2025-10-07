@@ -2017,8 +2017,9 @@ input[type="search"]::-webkit-search-results-decoration {
   padding: 6px;
   text-align: left;
   background: #040505;
-  border-top: 2px solid #da6d6d91;
-  border-bottom: 2px solid #da6d6d91;
+  border-bottom: 2px solid #55020291;
+  border-left: 2px solid #55020291;
+  border-right: 2px solid #55020291;
   line-height: 22px;
   border-radius: 17px;
   border-bottom-right-radius: 5px;
