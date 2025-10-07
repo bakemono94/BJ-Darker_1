@@ -514,10 +514,11 @@ ul.thin li {
 }
 
 #content {
-  margin: 190px auto auto;
+  margin: 183px auto auto;
   width: 100%;
   overflow: unset;
   padding-bottom: 0px;
+  border-top: 2px solid #2b2b2b;
 }
 
 #content .thin .sidebar .box .head {
