@@ -774,7 +774,7 @@ div.linkbox {
   border-top-right-radius: 70px;
   border-left: 3px solid #22252a;
   border-right: 3px solid #22252a;
-  border-top: 0px solid #22252a;
+  border-top: 3px solid #22252a;
 }
 
 #cat-selector ul li {
