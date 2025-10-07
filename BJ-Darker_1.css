@@ -984,6 +984,7 @@ span#unvote_message {
 .headTitulos {
   text-align: center;
   padding: 1px;
+  border-radius: 8px;
 }
 
 .sidebar {
