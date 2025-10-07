@@ -802,9 +802,9 @@ div.linkbox {
   color: #ccc;
   font-weight: 500;
   font-size: 15px;
-  width: 550px;
+  width: 93%;
   box-shadow: 0 1px 1px #000;
-  margin: 0px auto 3px auto;
+  margin: 5px auto 3px auto;
   padding: 4px 11px;
   border-radius: 20px;
 }
