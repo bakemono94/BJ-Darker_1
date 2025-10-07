@@ -3329,7 +3329,7 @@ table.slice {
 }
 
 #search_terms {
-  background: #282b30;
+  background: #1c1e21;
   /*! border-radius: 0px !important; */
 }
 
@@ -3832,7 +3832,7 @@ strong.quoteheader {
 }
 
 #ft_container {
-  background: #282b30;
+  background: #1c1e21;
   border-radius: 3px;
   padding: 10px 6px;
   font-family: Roboto;
@@ -3851,7 +3851,7 @@ strong.quoteheader {
   margin: 0px;
   padding: 1px;
   box-sizing: border-box;
-  background: #272b30;
+  background: #1c1e21;
 }
 
 a.brackets {
