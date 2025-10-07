@@ -290,6 +290,14 @@ a:hover.BJinfoBox span {
   font-family: Roboto;
 }
 
+#more_news .head {
+	border-radius: 0px;
+}
+
+.box .head{
+	border-radius: 0px;
+}
+
 body {
   background: #000000;
   font-family: "Fira Sans", sans-serif;
