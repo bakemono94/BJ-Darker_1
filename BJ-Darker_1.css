@@ -2307,7 +2307,8 @@ p.bjqs-caption {
   font-size: 15px !important;
   display: inline-block;
   padding-right: 5px; /* ou o valor que desejar */
-  vertical-align: middle;
+  padding-top: 15px;
+  /*vertical-align: middle;*/
 }
 .fa-arrow-up::before {
   content: "\f35b";
