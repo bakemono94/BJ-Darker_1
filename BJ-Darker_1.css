@@ -922,6 +922,7 @@ h4.min_padding {
 .sidebar {
   width: 300px;
   width: 290px;
+  margin-top: 10px;
 }
 .box,
 .thin .box {
