@@ -2495,11 +2495,11 @@ form input {
   background-color: #101214;
 }
 #nav_staffinbox a {
-  background: radial-gradient(
+  /*background: radial-gradient(
     circle at top right,
     #7d15151c,
     #7d15151c
-  ) !important;
+  ) !important;*/
   font-family: "Roboto" !important;
   border-left: solid 1px rgb(81, 88, 98);
   border-right: solid 1px rgb(81, 88, 98);
@@ -2894,7 +2894,7 @@ iframe.youtube {
 
 #nav_donations a {
   vertical-align: 0px;
-  background: #35383c;
+  /*background: #35383c;*/
   font-family: "Roboto Condensed" !important;
   border-left: solid 1px rgb(81, 88, 98);
   border-right: solid 1px rgb(81, 88, 98);
@@ -2907,11 +2907,11 @@ iframe.youtube {
 }
 
 #nav_requests a {
-  background: radial-gradient(
+  /*background: radial-gradient(
     circle at top right,
     #157d632e,
     #157d631f
-  ) !important;
+  ) !important;*/
   vertical-align: 0px;
   font-family: "Roboto" !important;
   border-left: solid 1px rgb(81, 88, 98);
