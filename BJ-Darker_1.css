@@ -2503,8 +2503,8 @@ form input {
   font-family: "Roboto" !important;
   border-left: solid 1px rgb(81, 88, 98);
   border-right: solid 1px rgb(81, 88, 98);
-  border-top: solid 1px rgb(81, 88, 98);
-  border-bottom: solid 1px rgb(81, 88, 98);
+  /*border-top: solid 1px rgb(81, 88, 98);
+  border-bottom: solid 1px rgb(81, 88, 98);*/
   text-shadow: none !important;
   font-weight: initial;
   font-size: 14px;
@@ -2898,8 +2898,8 @@ iframe.youtube {
   font-family: "Roboto Condensed" !important;
   border-left: solid 1px rgb(81, 88, 98);
   border-right: solid 1px rgb(81, 88, 98);
-  border-top: solid 1px rgb(81, 88, 98);
-  border-bottom: solid 1px rgb(81, 88, 98);
+  /*border-top: solid 1px rgb(81, 88, 98);
+  border-bottom: solid 1px rgb(81, 88, 98);*/
   text-shadow: none !important;
   font-weight: initial;
   font-size: 14px;
@@ -2916,8 +2916,8 @@ iframe.youtube {
   font-family: "Roboto" !important;
   border-left: solid 1px rgb(81, 88, 98);
   border-right: solid 1px rgb(81, 88, 98);
-  border-top: solid 1px rgb(81, 88, 98);
-  border-bottom: solid 1px rgb(81, 88, 98);
+  /*border-top: solid 1px rgb(81, 88, 98);
+  border-bottom: solid 1px rgb(81, 88, 98);*/
   text-shadow: none !important;
   font-weight: initial;
   font-size: 14px;
